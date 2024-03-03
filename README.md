@@ -1,2 +1,5 @@
-# Novo Mundo
- Meu primeiro repositorio
+# Novo, Mundo
+ Meu  repositorio GitHub
+
+ Repositório criado durante uma aula
+ 
